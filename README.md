@@ -1,7 +1,5 @@
 <!-- GitHub Profile README for Manthan Mehta -->
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-uid?v=4" width="150" alt="Manthan Mehta's GitHub Avatar" style="border-radius:50%;"/>
   
   # Hi, I'm Manthan Mehta! 👋
   **Final Year Computer Science Student | Data & Analytics Enthusiast**
